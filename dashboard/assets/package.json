@@ -13,7 +13,7 @@
         "babel-runtime": "^6.26.0",
         "classnames": "^2.2.5",
         "css-loader": "^0.28.9",
-        "eslint": "^4.16.0",
+        "eslint": "^9.26.0",
         "eslint-config-airbnb": "^16.1.0",
         "eslint-loader": "^2.0.0",
         "eslint-plugin-flowtype": "^2.41.0",
@@ -36,7 +36,7 @@
         "url": "^0.11.0",
         "url-loader": "^0.6.2",
         "webpack": "^3.10.0",
-        "webpack-dev-server": "^2.11.1"
+        "webpack-dev-server": "^4.0.0"
     },
     "scripts": {
         "build": "NODE_ENV=production webpack",
